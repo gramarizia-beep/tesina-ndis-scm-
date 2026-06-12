@@ -67,6 +67,15 @@ R (≥ 4.3) con i pacchetti: `tidyverse`, `Synth`, `tidysynth`, `fixest`, `scale
 | `0c_controprova_uk_svezia.R` | Robustezza: SCM con e senza Regno Unito e Svezia nel pool |
 | `0d_verifica_121.R` | Riverifica integrale del MSPE ratio 121 (rank, p-value, z-score, denominatore) |
 
+
+
+## Dati e figure inclusi
+
+
+
+- **`DATI/`** contiene una copia dei dati di input utilizzati nell'analisi (estrazione OECD/World Bank del 1° giugno 2026), per garantire la riproducibilità anche in caso di aggiornamenti degli archivi originali. Gli script leggono i file dalla radice della cartella di lavoro: per riprodurre l'analisi, copiare i CSV di `DATI/` nella cartella di lavoro oppure eseguire `1_download_dati.R` per riscaricarli.
+- **`FIGURE/`** contiene le figure finali generate dagli script, per consultazione diretta senza eseguire il codice.
+
 ## Fonti dei dati
 
 - **OECD SOCX TP31** (Incapacity-related benefits), 2000–2021 — scaricati dallo script 1
