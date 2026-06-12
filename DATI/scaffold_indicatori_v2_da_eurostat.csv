@@ -1,0 +1,187 @@
+iso3,paese,regione,codice,nome,fonte,direzione,valore,anno,note
+AUT,Austria,UE-27,S1,Riconoscimento giuridico Art.19,ANED Country Reports,+,NA,NA,NA
+AUT,Austria,UE-27,P1,Quota in-kind su totale disabilita',OECD SOCX TP31,+,NA,NA,NA
+AUT,Austria,UE-27,P2,Quota cash su totale disabilita',OECD SOCX TP31,-,NA,NA,NA
+AUT,Austria,UE-27,O1,Tasso occupazione persone disab.,Eurostat hlth_dlm200,+,2.9,NA,NA
+AUT,Austria,UE-27,O2,Rischio poverta' persone disab.,Eurostat ilc_di04,-,35.6,NA,NA
+AUT,Austria,UE-27,O3,Tasso istituzionalizzazione disab.,ANED / EU-SILC,-,50,NA,NA
+BEL,Belgio,UE-27,S1,Riconoscimento giuridico Art.19,ANED Country Reports,+,NA,NA,NA
+BEL,Belgio,UE-27,P1,Quota in-kind su totale disabilita',OECD SOCX TP31,+,NA,NA,NA
+BEL,Belgio,UE-27,P2,Quota cash su totale disabilita',OECD SOCX TP31,-,NA,NA,NA
+BEL,Belgio,UE-27,O1,Tasso occupazione persone disab.,Eurostat hlth_dlm200,+,1.6,NA,NA
+BEL,Belgio,UE-27,O2,Rischio poverta' persone disab.,Eurostat ilc_di04,-,37.8,NA,NA
+BEL,Belgio,UE-27,O3,Tasso istituzionalizzazione disab.,ANED / EU-SILC,-,38.5,NA,NA
+BGR,Bulgaria,UE-27,S1,Riconoscimento giuridico Art.19,ANED Country Reports,+,NA,NA,NA
+BGR,Bulgaria,UE-27,P1,Quota in-kind su totale disabilita',OECD SOCX TP31,+,NA,NA,NA
+BGR,Bulgaria,UE-27,P2,Quota cash su totale disabilita',OECD SOCX TP31,-,NA,NA,NA
+BGR,Bulgaria,UE-27,O1,Tasso occupazione persone disab.,Eurostat hlth_dlm200,+,6.7,NA,NA
+BGR,Bulgaria,UE-27,O2,Rischio poverta' persone disab.,Eurostat ilc_di04,-,16.7,NA,NA
+BGR,Bulgaria,UE-27,O3,Tasso istituzionalizzazione disab.,ANED / EU-SILC,-,11.3,NA,NA
+HRV,Croazia,UE-27,S1,Riconoscimento giuridico Art.19,ANED Country Reports,+,NA,NA,NA
+HRV,Croazia,UE-27,P1,Quota in-kind su totale disabilita',OECD SOCX TP31,+,NA,NA,NA
+HRV,Croazia,UE-27,P2,Quota cash su totale disabilita',OECD SOCX TP31,-,NA,NA,NA
+HRV,Croazia,UE-27,O1,Tasso occupazione persone disab.,Eurostat hlth_dlm200,+,3.3,NA,NA
+HRV,Croazia,UE-27,O2,Rischio poverta' persone disab.,Eurostat ilc_di04,-,46.1,NA,NA
+HRV,Croazia,UE-27,O3,Tasso istituzionalizzazione disab.,ANED / EU-SILC,-,5.1,NA,NA
+CYP,Cipro,UE-27,S1,Riconoscimento giuridico Art.19,ANED Country Reports,+,NA,NA,NA
+CYP,Cipro,UE-27,P1,Quota in-kind su totale disabilita',OECD SOCX TP31,+,NA,NA,NA
+CYP,Cipro,UE-27,P2,Quota cash su totale disabilita',OECD SOCX TP31,-,NA,NA,NA
+CYP,Cipro,UE-27,O1,Tasso occupazione persone disab.,Eurostat hlth_dlm200,+,1.9,NA,NA
+CYP,Cipro,UE-27,O2,Rischio poverta' persone disab.,Eurostat ilc_di04,-,42.1,NA,NA
+CYP,Cipro,UE-27,O3,Tasso istituzionalizzazione disab.,ANED / EU-SILC,-,33.3,NA,NA
+CZE,Repubblica Ceca,UE-27,S1,Riconoscimento giuridico Art.19,ANED Country Reports,+,NA,NA,NA
+CZE,Repubblica Ceca,UE-27,P1,Quota in-kind su totale disabilita',OECD SOCX TP31,+,NA,NA,NA
+CZE,Repubblica Ceca,UE-27,P2,Quota cash su totale disabilita',OECD SOCX TP31,-,NA,NA,NA
+CZE,Repubblica Ceca,UE-27,O1,Tasso occupazione persone disab.,Eurostat hlth_dlm200,+,2.3,NA,NA
+CZE,Repubblica Ceca,UE-27,O2,Rischio poverta' persone disab.,Eurostat ilc_di04,-,39.7,NA,NA
+CZE,Repubblica Ceca,UE-27,O3,Tasso istituzionalizzazione disab.,ANED / EU-SILC,-,26.5,NA,NA
+DNK,Danimarca,UE-27,S1,Riconoscimento giuridico Art.19,ANED Country Reports,+,NA,NA,NA
+DNK,Danimarca,UE-27,P1,Quota in-kind su totale disabilita',OECD SOCX TP31,+,39.3472898827471,2021,da OECD SOCX TP31
+DNK,Danimarca,UE-27,P2,Quota cash su totale disabilita',OECD SOCX TP31,-,60.652710117252894,2021,da OECD SOCX TP31
+DNK,Danimarca,UE-27,O1,Tasso occupazione persone disab.,Eurostat hlth_dlm200,+,2.1,NA,NA
+DNK,Danimarca,UE-27,O2,Rischio poverta' persone disab.,Eurostat ilc_di04,-,38.4,NA,NA
+DNK,Danimarca,UE-27,O3,Tasso istituzionalizzazione disab.,ANED / EU-SILC,-,51,NA,NA
+EST,Estonia,UE-27,S1,Riconoscimento giuridico Art.19,ANED Country Reports,+,NA,NA,NA
+EST,Estonia,UE-27,P1,Quota in-kind su totale disabilita',OECD SOCX TP31,+,NA,NA,NA
+EST,Estonia,UE-27,P2,Quota cash su totale disabilita',OECD SOCX TP31,-,NA,NA,NA
+EST,Estonia,UE-27,O1,Tasso occupazione persone disab.,Eurostat hlth_dlm200,+,2.8,NA,NA
+EST,Estonia,UE-27,O2,Rischio poverta' persone disab.,Eurostat ilc_di04,-,51.2,NA,NA
+EST,Estonia,UE-27,O3,Tasso istituzionalizzazione disab.,ANED / EU-SILC,-,22.3,NA,NA
+FIN,Finlandia,UE-27,S1,Riconoscimento giuridico Art.19,ANED Country Reports,+,NA,NA,NA
+FIN,Finlandia,UE-27,P1,Quota in-kind su totale disabilita',OECD SOCX TP31,+,39.652506952968416,2021,da OECD SOCX TP31
+FIN,Finlandia,UE-27,P2,Quota cash su totale disabilita',OECD SOCX TP31,-,60.34743755646166,2021,da OECD SOCX TP31
+FIN,Finlandia,UE-27,O1,Tasso occupazione persone disab.,Eurostat hlth_dlm200,+,0.9,NA,NA
+FIN,Finlandia,UE-27,O2,Rischio poverta' persone disab.,Eurostat ilc_di04,-,43.8,NA,NA
+FIN,Finlandia,UE-27,O3,Tasso istituzionalizzazione disab.,ANED / EU-SILC,-,36.3,NA,NA
+FRA,Francia,UE-27,S1,Riconoscimento giuridico Art.19,ANED Country Reports,+,NA,NA,NA
+FRA,Francia,UE-27,P1,Quota in-kind su totale disabilita',OECD SOCX TP31,+,NA,NA,NA
+FRA,Francia,UE-27,P2,Quota cash su totale disabilita',OECD SOCX TP31,-,NA,NA,NA
+FRA,Francia,UE-27,O1,Tasso occupazione persone disab.,Eurostat hlth_dlm200,+,3.7,NA,NA
+FRA,Francia,UE-27,O2,Rischio poverta' persone disab.,Eurostat ilc_di04,-,34.9,NA,NA
+FRA,Francia,UE-27,O3,Tasso istituzionalizzazione disab.,ANED / EU-SILC,-,41.3,NA,NA
+DEU,Germania,UE-27,S1,Riconoscimento giuridico Art.19,ANED Country Reports,+,NA,NA,NA
+DEU,Germania,UE-27,P1,Quota in-kind su totale disabilita',OECD SOCX TP31,+,NA,NA,NA
+DEU,Germania,UE-27,P2,Quota cash su totale disabilita',OECD SOCX TP31,-,NA,NA,NA
+DEU,Germania,UE-27,O1,Tasso occupazione persone disab.,Eurostat hlth_dlm200,+,1.6,NA,NA
+DEU,Germania,UE-27,O2,Rischio poverta' persone disab.,Eurostat ilc_di04,-,42,NA,NA
+DEU,Germania,UE-27,O3,Tasso istituzionalizzazione disab.,ANED / EU-SILC,-,52.9,NA,NA
+GRC,Grecia,UE-27,S1,Riconoscimento giuridico Art.19,ANED Country Reports,+,NA,NA,NA
+GRC,Grecia,UE-27,P1,Quota in-kind su totale disabilita',OECD SOCX TP31,+,NA,NA,NA
+GRC,Grecia,UE-27,P2,Quota cash su totale disabilita',OECD SOCX TP31,-,NA,NA,NA
+GRC,Grecia,UE-27,O1,Tasso occupazione persone disab.,Eurostat hlth_dlm200,+,5.9,NA,NA
+GRC,Grecia,UE-27,O2,Rischio poverta' persone disab.,Eurostat ilc_di04,-,23,NA,NA
+GRC,Grecia,UE-27,O3,Tasso istituzionalizzazione disab.,ANED / EU-SILC,-,16.4,NA,NA
+HUN,Ungheria,UE-27,S1,Riconoscimento giuridico Art.19,ANED Country Reports,+,NA,NA,NA
+HUN,Ungheria,UE-27,P1,Quota in-kind su totale disabilita',OECD SOCX TP31,+,NA,NA,NA
+HUN,Ungheria,UE-27,P2,Quota cash su totale disabilita',OECD SOCX TP31,-,NA,NA,NA
+HUN,Ungheria,UE-27,O1,Tasso occupazione persone disab.,Eurostat hlth_dlm200,+,5.1,NA,NA
+HUN,Ungheria,UE-27,O2,Rischio poverta' persone disab.,Eurostat ilc_di04,-,37.2,NA,NA
+HUN,Ungheria,UE-27,O3,Tasso istituzionalizzazione disab.,ANED / EU-SILC,-,9.1,NA,NA
+IRL,Irlanda,UE-27,S1,Riconoscimento giuridico Art.19,ANED Country Reports,+,NA,NA,NA
+IRL,Irlanda,UE-27,P1,Quota in-kind su totale disabilita',OECD SOCX TP31,+,2.8208360454396857,2021,da OECD SOCX TP31
+IRL,Irlanda,UE-27,P2,Quota cash su totale disabilita',OECD SOCX TP31,-,97.17916395456032,2021,da OECD SOCX TP31
+IRL,Irlanda,UE-27,O1,Tasso occupazione persone disab.,Eurostat hlth_dlm200,+,1.6,NA,NA
+IRL,Irlanda,UE-27,O2,Rischio poverta' persone disab.,Eurostat ilc_di04,-,32.8,NA,NA
+IRL,Irlanda,UE-27,O3,Tasso istituzionalizzazione disab.,ANED / EU-SILC,-,31.6,NA,NA
+ITA,Italia,UE-27,S1,Riconoscimento giuridico Art.19,ANED Country Reports,+,NA,NA,NA
+ITA,Italia,UE-27,P1,Quota in-kind su totale disabilita',OECD SOCX TP31,+,NA,NA,NA
+ITA,Italia,UE-27,P2,Quota cash su totale disabilita',OECD SOCX TP31,-,NA,NA,NA
+ITA,Italia,UE-27,O1,Tasso occupazione persone disab.,Eurostat hlth_dlm200,+,6.2,NA,NA
+ITA,Italia,UE-27,O2,Rischio poverta' persone disab.,Eurostat ilc_di04,-,19.1,NA,NA
+ITA,Italia,UE-27,O3,Tasso istituzionalizzazione disab.,ANED / EU-SILC,-,19.8,NA,NA
+LVA,Lettonia,UE-27,S1,Riconoscimento giuridico Art.19,ANED Country Reports,+,NA,NA,NA
+LVA,Lettonia,UE-27,P1,Quota in-kind su totale disabilita',OECD SOCX TP31,+,NA,NA,NA
+LVA,Lettonia,UE-27,P2,Quota cash su totale disabilita',OECD SOCX TP31,-,NA,NA,NA
+LVA,Lettonia,UE-27,O1,Tasso occupazione persone disab.,Eurostat hlth_dlm200,+,11.3,NA,NA
+LVA,Lettonia,UE-27,O2,Rischio poverta' persone disab.,Eurostat ilc_di04,-,57.2,NA,NA
+LVA,Lettonia,UE-27,O3,Tasso istituzionalizzazione disab.,ANED / EU-SILC,-,22,NA,NA
+LTU,Lituania,UE-27,S1,Riconoscimento giuridico Art.19,ANED Country Reports,+,NA,NA,NA
+LTU,Lituania,UE-27,P1,Quota in-kind su totale disabilita',OECD SOCX TP31,+,NA,NA,NA
+LTU,Lituania,UE-27,P2,Quota cash su totale disabilita',OECD SOCX TP31,-,NA,NA,NA
+LTU,Lituania,UE-27,O1,Tasso occupazione persone disab.,Eurostat hlth_dlm200,+,4.4,NA,NA
+LTU,Lituania,UE-27,O2,Rischio poverta' persone disab.,Eurostat ilc_di04,-,40.3,NA,NA
+LTU,Lituania,UE-27,O3,Tasso istituzionalizzazione disab.,ANED / EU-SILC,-,10.3,NA,NA
+LUX,Lussemburgo,UE-27,S1,Riconoscimento giuridico Art.19,ANED Country Reports,+,NA,NA,NA
+LUX,Lussemburgo,UE-27,P1,Quota in-kind su totale disabilita',OECD SOCX TP31,+,NA,NA,NA
+LUX,Lussemburgo,UE-27,P2,Quota cash su totale disabilita',OECD SOCX TP31,-,NA,NA,NA
+LUX,Lussemburgo,UE-27,O1,Tasso occupazione persone disab.,Eurostat hlth_dlm200,+,2.5,NA,NA
+LUX,Lussemburgo,UE-27,O2,Rischio poverta' persone disab.,Eurostat ilc_di04,-,33,NA,NA
+LUX,Lussemburgo,UE-27,O3,Tasso istituzionalizzazione disab.,ANED / EU-SILC,-,27.5,NA,NA
+MLT,Malta,UE-27,S1,Riconoscimento giuridico Art.19,ANED Country Reports,+,NA,NA,NA
+MLT,Malta,UE-27,P1,Quota in-kind su totale disabilita',OECD SOCX TP31,+,NA,NA,NA
+MLT,Malta,UE-27,P2,Quota cash su totale disabilita',OECD SOCX TP31,-,NA,NA,NA
+MLT,Malta,UE-27,O1,Tasso occupazione persone disab.,Eurostat hlth_dlm200,+,0.7,NA,NA
+MLT,Malta,UE-27,O2,Rischio poverta' persone disab.,Eurostat ilc_di04,-,20,NA,NA
+MLT,Malta,UE-27,O3,Tasso istituzionalizzazione disab.,ANED / EU-SILC,-,22.3,NA,NA
+NLD,Paesi Bassi,UE-27,S1,Riconoscimento giuridico Art.19,ANED Country Reports,+,NA,NA,NA
+NLD,Paesi Bassi,UE-27,P1,Quota in-kind su totale disabilita',OECD SOCX TP31,+,NA,NA,NA
+NLD,Paesi Bassi,UE-27,P2,Quota cash su totale disabilita',OECD SOCX TP31,-,NA,NA,NA
+NLD,Paesi Bassi,UE-27,O1,Tasso occupazione persone disab.,Eurostat hlth_dlm200,+,0.4,NA,NA
+NLD,Paesi Bassi,UE-27,O2,Rischio poverta' persone disab.,Eurostat ilc_di04,-,46.9,NA,NA
+NLD,Paesi Bassi,UE-27,O3,Tasso istituzionalizzazione disab.,ANED / EU-SILC,-,42,NA,NA
+POL,Polonia,UE-27,S1,Riconoscimento giuridico Art.19,ANED Country Reports,+,NA,NA,NA
+POL,Polonia,UE-27,P1,Quota in-kind su totale disabilita',OECD SOCX TP31,+,NA,NA,NA
+POL,Polonia,UE-27,P2,Quota cash su totale disabilita',OECD SOCX TP31,-,NA,NA,NA
+POL,Polonia,UE-27,O1,Tasso occupazione persone disab.,Eurostat hlth_dlm200,+,9.2,NA,NA
+POL,Polonia,UE-27,O2,Rischio poverta' persone disab.,Eurostat ilc_di04,-,32.4,NA,NA
+POL,Polonia,UE-27,O3,Tasso istituzionalizzazione disab.,ANED / EU-SILC,-,14,NA,NA
+PRT,Portogallo,UE-27,S1,Riconoscimento giuridico Art.19,ANED Country Reports,+,NA,NA,NA
+PRT,Portogallo,UE-27,P1,Quota in-kind su totale disabilita',OECD SOCX TP31,+,NA,NA,NA
+PRT,Portogallo,UE-27,P2,Quota cash su totale disabilita',OECD SOCX TP31,-,NA,NA,NA
+PRT,Portogallo,UE-27,O1,Tasso occupazione persone disab.,Eurostat hlth_dlm200,+,5.3,NA,NA
+PRT,Portogallo,UE-27,O2,Rischio poverta' persone disab.,Eurostat ilc_di04,-,33.3,NA,NA
+PRT,Portogallo,UE-27,O3,Tasso istituzionalizzazione disab.,ANED / EU-SILC,-,26.3,NA,NA
+ROU,Romania,UE-27,S1,Riconoscimento giuridico Art.19,ANED Country Reports,+,NA,NA,NA
+ROU,Romania,UE-27,P1,Quota in-kind su totale disabilita',OECD SOCX TP31,+,NA,NA,NA
+ROU,Romania,UE-27,P2,Quota cash su totale disabilita',OECD SOCX TP31,-,NA,NA,NA
+ROU,Romania,UE-27,O1,Tasso occupazione persone disab.,Eurostat hlth_dlm200,+,10.7,NA,NA
+ROU,Romania,UE-27,O2,Rischio poverta' persone disab.,Eurostat ilc_di04,-,25.8,NA,NA
+ROU,Romania,UE-27,O3,Tasso istituzionalizzazione disab.,ANED / EU-SILC,-,2.8,NA,NA
+SVK,Slovacchia,UE-27,S1,Riconoscimento giuridico Art.19,ANED Country Reports,+,NA,NA,NA
+SVK,Slovacchia,UE-27,P1,Quota in-kind su totale disabilita',OECD SOCX TP31,+,NA,NA,NA
+SVK,Slovacchia,UE-27,P2,Quota cash su totale disabilita',OECD SOCX TP31,-,NA,NA,NA
+SVK,Slovacchia,UE-27,O1,Tasso occupazione persone disab.,Eurostat hlth_dlm200,+,3.6,NA,NA
+SVK,Slovacchia,UE-27,O2,Rischio poverta' persone disab.,Eurostat ilc_di04,-,27.2,NA,NA
+SVK,Slovacchia,UE-27,O3,Tasso istituzionalizzazione disab.,ANED / EU-SILC,-,5,NA,NA
+SVN,Slovenia,UE-27,S1,Riconoscimento giuridico Art.19,ANED Country Reports,+,NA,NA,NA
+SVN,Slovenia,UE-27,P1,Quota in-kind su totale disabilita',OECD SOCX TP31,+,NA,NA,NA
+SVN,Slovenia,UE-27,P2,Quota cash su totale disabilita',OECD SOCX TP31,-,NA,NA,NA
+SVN,Slovenia,UE-27,O1,Tasso occupazione persone disab.,Eurostat hlth_dlm200,+,4.2,NA,NA
+SVN,Slovenia,UE-27,O2,Rischio poverta' persone disab.,Eurostat ilc_di04,-,33.9,NA,NA
+SVN,Slovenia,UE-27,O3,Tasso istituzionalizzazione disab.,ANED / EU-SILC,-,22.3,NA,NA
+ESP,Spagna,UE-27,S1,Riconoscimento giuridico Art.19,ANED Country Reports,+,NA,NA,NA
+ESP,Spagna,UE-27,P1,Quota in-kind su totale disabilita',OECD SOCX TP31,+,NA,NA,NA
+ESP,Spagna,UE-27,P2,Quota cash su totale disabilita',OECD SOCX TP31,-,NA,NA,NA
+ESP,Spagna,UE-27,O1,Tasso occupazione persone disab.,Eurostat hlth_dlm200,+,3.5,NA,NA
+ESP,Spagna,UE-27,O2,Rischio poverta' persone disab.,Eurostat ilc_di04,-,24.2,NA,NA
+ESP,Spagna,UE-27,O3,Tasso istituzionalizzazione disab.,ANED / EU-SILC,-,21,NA,NA
+SWE,Svezia,UE-27,S1,Riconoscimento giuridico Art.19,ANED Country Reports,+,NA,NA,NA
+SWE,Svezia,UE-27,P1,Quota in-kind su totale disabilita',OECD SOCX TP31,+,51.544752706467975,2021,da OECD SOCX TP31
+SWE,Svezia,UE-27,P2,Quota cash su totale disabilita',OECD SOCX TP31,-,48.455247293532025,2021,da OECD SOCX TP31
+SWE,Svezia,UE-27,O1,Tasso occupazione persone disab.,Eurostat hlth_dlm200,+,1.9,NA,NA
+SWE,Svezia,UE-27,O2,Rischio poverta' persone disab.,Eurostat ilc_di04,-,33,NA,NA
+SWE,Svezia,UE-27,O3,Tasso istituzionalizzazione disab.,ANED / EU-SILC,-,45.7,NA,NA
+GBR,Regno Unito,Benchmark esterno,S1,Riconoscimento giuridico Art.19,ANED Country Reports,+,NA,NA,NA
+GBR,Regno Unito,Benchmark esterno,P1,Quota in-kind su totale disabilita',OECD SOCX TP31,+,23.81184794032452,2022,da OECD SOCX TP31
+GBR,Regno Unito,Benchmark esterno,P2,Quota cash su totale disabilita',OECD SOCX TP31,-,76.1880495244931,2022,da OECD SOCX TP31
+GBR,Regno Unito,Benchmark esterno,O1,Tasso occupazione persone disab.,Eurostat hlth_dlm200,+,1.6,NA,NA
+GBR,Regno Unito,Benchmark esterno,O2,Rischio poverta' persone disab.,Eurostat ilc_di04,-,38.6,NA,NA
+GBR,Regno Unito,Benchmark esterno,O3,Tasso istituzionalizzazione disab.,ANED / EU-SILC,-,39.7,NA,NA
+NOR,Norvegia,Benchmark esterno,S1,Riconoscimento giuridico Art.19,ANED Country Reports,+,NA,NA,NA
+NOR,Norvegia,Benchmark esterno,P1,Quota in-kind su totale disabilita',OECD SOCX TP31,+,13.442506591517908,2021,da OECD SOCX TP31
+NOR,Norvegia,Benchmark esterno,P2,Quota cash su totale disabilita',OECD SOCX TP31,-,86.55749340848209,2021,da OECD SOCX TP31
+NOR,Norvegia,Benchmark esterno,O1,Tasso occupazione persone disab.,Eurostat hlth_dlm200,+,0.7,NA,NA
+NOR,Norvegia,Benchmark esterno,O2,Rischio poverta' persone disab.,Eurostat ilc_di04,-,39.7,NA,NA
+NOR,Norvegia,Benchmark esterno,O3,Tasso istituzionalizzazione disab.,ANED / EU-SILC,-,20.3,NA,NA
+CHE,Svizzera,Benchmark esterno,S1,Riconoscimento giuridico Art.19,ANED Country Reports,+,NA,NA,NA
+CHE,Svizzera,Benchmark esterno,P1,Quota in-kind su totale disabilita',OECD SOCX TP31,+,NA,NA,NA
+CHE,Svizzera,Benchmark esterno,P2,Quota cash su totale disabilita',OECD SOCX TP31,-,NA,NA,NA
+CHE,Svizzera,Benchmark esterno,O1,Tasso occupazione persone disab.,Eurostat hlth_dlm200,+,1.3,NA,NA
+CHE,Svizzera,Benchmark esterno,O2,Rischio poverta' persone disab.,Eurostat ilc_di04,-,42.8,NA,NA
+CHE,Svizzera,Benchmark esterno,O3,Tasso istituzionalizzazione disab.,ANED / EU-SILC,-,57.2,NA,NA
+AUS,Australia,Benchmark esterno (gia' analizzato SCM),S1,Riconoscimento giuridico Art.19,ANED Country Reports,+,NA,NA,NA
+AUS,Australia,Benchmark esterno (gia' analizzato SCM),P1,Quota in-kind su totale disabilita',OECD SOCX TP31,+,45.50685400426333,2022,da OECD SOCX TP31
+AUS,Australia,Benchmark esterno (gia' analizzato SCM),P2,Quota cash su totale disabilita',OECD SOCX TP31,-,54.49314599573667,2022,da OECD SOCX TP31
+AUS,Australia,Benchmark esterno (gia' analizzato SCM),O1,Tasso occupazione persone disab.,Eurostat hlth_dlm200,+,NA,NA,NA
+AUS,Australia,Benchmark esterno (gia' analizzato SCM),O2,Rischio poverta' persone disab.,Eurostat ilc_di04,-,NA,NA,NA
+AUS,Australia,Benchmark esterno (gia' analizzato SCM),O3,Tasso istituzionalizzazione disab.,ANED / EU-SILC,-,NA,NA,NA
